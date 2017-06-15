@@ -1,0 +1,11 @@
+{
+  "generator-openapi-repo": {
+    "importExistingSpec": true,
+    "importedSpec": "C:\\cygwin64\\home\\conpa05\\Workspace\\openapi\\petstore-swagger.json",
+    "name": "petstore",
+    "repo": "paulconnor/store",
+    "splitSpec": false,
+    "samples": true,
+    "installSwaggerUI": true
+  }
+}
